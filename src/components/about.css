@@ -1,0 +1,29 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    height: 100vh;
+    max-width: 100%;
+}
+.about-container {
+    width: 100%;
+    margin: auto;
+    padding: 50px;
+}
+
+.about-img{
+    height: 600px;
+    width: 500px;
+}
+.about-img img{
+    height: 100%;
+    border-radius: 20px;
+}
+.about-title{
+    text-align: center;
+    width: 500px;
+}
+.about-title h2{
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
